@@ -90,7 +90,7 @@
             <div class="header-content">
                 <!--Add your profile picture here-->
                 <img src="" alt="" class="">
-                <h1>S.Deepa</h1>
+                <h1>Noorul Afzha.N</h1>
                 <p>I'm webdesigner</p>
             </div>
         </header>
@@ -130,7 +130,7 @@
                         <li>2021-2024 <br> Bachelor of Computer Appplication</li>
                         <li>Idhaya College For Women, <br> Bharathidasan University, <br> Kumbakonam-Tamilnadu</li>
                         <li>2020-2021, <br> Higher Secondary</li>
-                        <li> Indra public, <br> Higher Secondary School, <br> Thaluthalaimedu-Tamilnadu </li>
+                        <li>Sri Saraswathi patasala, <br> Girls Higher Secondary School, <br> Kumbakonam-Tamilnadu </li>
                     </ul>
                 </div>
             </section>
@@ -150,7 +150,7 @@
               </section>
 
          <footer>
-                <p>&copy; 2023 S. Deepa</p>
-ooter>
+                <p>&copy; 2023 Noorul Afzha</p>
+        </footer>
     </body>
 </html>
